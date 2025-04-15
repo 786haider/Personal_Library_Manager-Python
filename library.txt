@@ -4,15 +4,7 @@
         "author": "Haider",
         "year": 2025,
         "genre": "2",
-        "read": true,
-        "date_added": "2025-03-19"
-    },
-    {
-        "title": "my life my rule",
-        "author": "Haider",
-        "year": 2025,
-        "genre": "3",
-        "read": true,
+        "read": false,
         "date_added": "2025-03-19"
     }
 ]
